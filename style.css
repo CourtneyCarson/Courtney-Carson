@@ -44,7 +44,7 @@ a:hover {
 /* image styling */
 .image-round {
   border-radius: 50%;
-  align: left;
+  float: right;
   margin: 80px;
 }
 
